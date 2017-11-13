@@ -12,7 +12,6 @@ public class GUIAppController
 		appFrame = new GUIFrame(this);	//link to itself to access itself with 'this'
 	}
 
-
 	public void start()
 	{
 		
